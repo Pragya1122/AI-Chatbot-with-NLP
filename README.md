@@ -32,4 +32,6 @@ This task demonstrates a basic yet effective method of creating a chatbot that r
 ### Screenshot of the output
 
 
+![Image](https://github.com/user-attachments/assets/caddffe8-c6cb-4f44-a4ed-12766e804ed0)
+
 ![Image](https://github.com/user-attachments/assets/7c328fde-fec1-42fa-ab2a-989c073d556a)
